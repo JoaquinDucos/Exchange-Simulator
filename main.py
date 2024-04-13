@@ -1,5 +1,3 @@
-#Idea principal para el script de Python, que luego tuve pasar a streamlit para la INterfaz, pero se pierde valor y funciones que no pude aplicar por errores de manejo de estados en streamlit.
-
 from data.crypto_data import *
 from operations.trading_operations import *
 from db.firebase_operations import recuperar_datos_de_firestore, guardar_datos_en_firestore
