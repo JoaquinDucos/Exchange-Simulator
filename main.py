@@ -1,3 +1,5 @@
+#Idea principal para testear en la terminal
+
 from data.crypto_data import *
 from operations.trading_operations import *
 from db.firebase_operations import recuperar_datos_de_firestore, guardar_datos_en_firestore
